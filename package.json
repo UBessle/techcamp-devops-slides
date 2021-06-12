@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "DevOps - Mehr als nur ein Hype: Slides for the DevOps keynote at TechCamp 2019 https://techcamp.hamburg/",
   "dependencies": {
-    "reveal-md": "^3.0.4"
+    "reveal-md": "^5.1.1"
   },
   "devDependencies": {},
   "scripts": {
